@@ -1,0 +1,39 @@
+Programas Python:
+
+Wegert, E., Visual Complex Functions, Birkhäuser, 2012. https://link.springer.com/book/10.1007/978-3-0348-0180-5
+
+Needham, T., Visual complex analysis, Oxford: Clarendon Press, 2004
+
+Fernández, C., ¿Cómo representar funciones en variable compleja? Portal uned.es.
+
+Phase portraits of complex functions, based on matplotlib:
+https://github.com/rluce/python-phaseplot
+
+DColor: A Domain Coloring Python Module:
+https://github.com/hernanat/dcolor
+
+Phase portrait animations of complex functions:
+https://medium.com/@balidani/phase-portrait-animations-of-complex-functions-f0a44c2477c1
+
+https://blog.christianperone.com/2010/02/riemann-zeta-function-visualizations-with-python/
+
+
+OTROS ENLACES:
+
+https://www.youtube.com/watch?v=44CbdKLF_RQ
+
+https://gandhiviswanathan.wordpress.com/2014/10/07/domain-coloring-for-visualizing-complex-functions/
+
+https://complex-analysis.com/content/domain_coloring.html
+
+https://users.mai.liu.se/hanlu09/complex/domain_coloring.html
+
+https://frrq.cvg.utn.edu.ar/pluginfile.php/28233/mod_resource/content/1/Aplicaciones%20gr%C3%A1ficas%20de%20funciones%20complejas%20Maggi.pdf#:~:text=Es%20posible%20representar%20una%20funci%C3%B3n,w%20%3D%20f(z).
+
+https://www.dynamicmath.xyz/domain-coloring/
+
+https://www.youtube.com/watch?v=c3uMrIN459o
+
+http://www.visual.wegert.com/
+
+https://www.researchgate.net/publication/346969085_Visualising_complex_functions_Enhanced_phase_portraits
